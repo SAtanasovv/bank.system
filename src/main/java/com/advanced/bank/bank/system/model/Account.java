@@ -2,6 +2,8 @@ package com.advanced.bank.bank.system.model;
 
 import com.advanced.bank.bank.system.model.enums.AccountType;
 
+
+
 public class Account {
     private Long id;
     private String iban;
